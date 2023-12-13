@@ -2,7 +2,7 @@
 
 I aim to learn, to develop myself and the people close to me. 
 
-I like to work in the field of data science, artificial intelligence, a little front-end(web) and to learn new things.
+I like to work in the field of data science, artificial intelligence.
 
 
 <!--
